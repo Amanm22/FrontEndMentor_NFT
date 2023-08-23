@@ -1,0 +1,127 @@
+body{
+  background-color: #0D1A2D;
+  font-family: 'Outfit', sans-serif;
+}
+
+.box{
+    background-color: #15273F;
+    display:block;
+    width: 260px;
+    margin: 0 auto;
+    height: 500px;
+    padding-right: 27px;
+    margin-top: 100px;
+    border-radius: 10px;
+    margin-top: 70px;
+    height:450px;
+}
+
+h3{
+  color: #CFD6DE;
+  padding-left: 20px;
+  font-weight: 600;
+}
+
+
+p{
+  float: right;
+}
+.eq{
+  width: 250px;
+  height: 215px;
+  margin: 20px;
+  margin-bottom: 0;
+  margin-left: 19px;
+  border-radius: 10px;
+}
+
+.a{
+  margin-top: 0;
+  padding-left:20px;
+  font-size: 14px;
+  color: #748BAA;
+  font-weight: 300;
+}
+
+
+.c{
+  position: relative;
+  left: 180px;
+  bottom: 26px;
+  width: 15px;
+
+
+}
+
+.ic_eth{
+  width: 10px;
+  position: relative;
+  bottom: 4px;
+}
+
+.d{
+  color: #748BAA;
+  display: block;
+  width:75px;
+  position: relative;
+  bottom: 37px;
+  left: 75px;
+  font-size: 12px;
+}
+
+.ETH{
+  position: relative;
+  bottom: 16px;
+  right: 178px;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.eth{
+  color: #18ECEF;
+  width: 260px;
+  padding-left: 20px;
+  font-weight: 400;
+}
+
+.clock{
+    width: 200px;
+    font-weight: 300;
+}
+
+hr{
+  position: relative;
+  bottom:23px;
+  width: 90%;
+  left: 10px;
+  height: 2px;
+  background-color: 1px white  ;
+  border-style: none;
+  border-top-style: solid;
+}
+
+.cr{
+  color: #748BAA;
+}
+
+.avatar{
+  width: 25px;
+  height: 25px;
+  margin-left: 20px;
+  border: 1px solid white;
+  border-radius: 50%;
+
+}
+.foot{
+  color: #CFD6DE;
+  font-weight: 300;
+  position: relative;
+  bottom: 16px;
+  font-size: 12px;
+}
+
+.foot_text{
+  position: relative;
+  right: 70px;
+  bottom: 7px;
+}
